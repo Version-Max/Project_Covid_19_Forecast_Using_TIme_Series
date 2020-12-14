@@ -55,25 +55,15 @@
 
 ## Model Building:
 
-* 3 algorithms were tested to build the model - Linear Regression, Lasso, and DecisionTree.
-* The following are the results of each algorithm:
-* Linear Regression:
-<img src='images/plot_f.png' width='25%' height='25%'>
-* Lasso:
-<img src='images/plot_d.png' width='25%' height='25%'>
-* Decision Tree:
-<img src='images/plot_e.png' width='25%' height='25%'>
+* After testing generic models like the Linear Regression it was clear that it does not operate well for timely predictions.
+* Facebook's Prophet algorithm was chosen to construct the model because it is one of the best time-series model out there.
 
 
 ## Conclusion:
 
-* Linear Regression was selected as the ultimate choice for model building. Linear Regression's score and cross validation on test data gave stronger results compared to the other algorithms tested.
+* The model was able to find the following predictions for the number of cases for the future (as of Oct-23rd-2020):
+<img src='images/plot_h.png' width='25%' height='25%'>
+<img src='images/plot_u.png' width='25%' height='25%'>
 
 
-## Model Deployment:
-
-* With the help of Pickle library the model was exported as an API.
-* Using Flask a server was created to onboard the API and serve an interactable webpage that lets users input the location, bedrooms and bathroom to get the price prediction:
-<img src='images/plot_g.png' width='45%' height='45%'>
-
-### The file with detailed step-by-step code is [here](/Price_Prediction_of_homes.ipynb).
+### The file with detailed step-by-step code is [here](/Covid_19_Forecast_Machine_Learning.ipynb).
