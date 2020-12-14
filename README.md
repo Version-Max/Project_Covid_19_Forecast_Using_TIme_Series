@@ -62,8 +62,8 @@
 ## Conclusion:
 
 * The model was able to find the following predictions for the number of cases for the future (as of Oct-23rd-2020):
-<img src='images/plot_h.png' width='25%' height='25%'>
-<img src='images/plot_u.png' width='25%' height='25%'>
+<img src='images/plot_h.png' width='45%' height='45%'>
+<img src='images/plot_i.png' width='45%' height='45%'>
 
 
 ### The file with detailed step-by-step code is [here](/Covid_19_Forecast_Machine_Learning.ipynb).
