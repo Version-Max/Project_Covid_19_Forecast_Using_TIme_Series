@@ -43,13 +43,13 @@
 ## Visualization:
 
 * A number of charts and graphs were created to analyze the cases:
-<img src='images/plot_a.png' width='25%' height='25%'>
-<img src='images/plot_b.png' width='25%' height='25%'>
-<img src='images/plot_c.png' width='25%' height='25%'>
-<img src='images/plot_d.png' width='25%' height='25%'>
-<img src='images/plot_e.png' width='25%' height='25%'>
-<img src='images/plot_f.png' width='25%' height='25%'>
-<img src='images/plot_g.png' width='25%' height='25%'>
+<img src='images/plot_a.png' width='45%' height='45%'>
+<img src='images/plot_b.png' width='45%' height='45%'>
+<img src='images/plot_c.png' width='45%' height='45%'>
+<img src='images/plot_d.png' width='45%' height='45%'>
+<img src='images/plot_e.png' width='45%' height='45%'>
+<img src='images/plot_f.png' width='45%' height='45%'>
+<img src='images/plot_g.png' width='45%' height='45%'>
 
 
 
